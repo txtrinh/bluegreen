@@ -21,3 +21,4 @@ header('Content-Type: image/png');
 imagePNG($im);
 imagedestroy($im);
 ?>
+//this is my change
